@@ -1,0 +1,6 @@
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\bin\Debug\03_exercise.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\bin\Debug\03_exercise.exe
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\bin\Debug\03_exercise.pdb
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\obj\Debug\03_exercise.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\obj\Debug\03_exercise.exe
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\03_exercise\obj\Debug\03_exercise.pdb

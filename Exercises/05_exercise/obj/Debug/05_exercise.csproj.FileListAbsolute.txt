@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\obj\Debug\05_exercise.csprojResolveAssemblyReference.cache
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\obj\Debug\05_exercise.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\bin\Debug\05_exercise.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\bin\Debug\05_exercise.exe
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\bin\Debug\05_exercise.pdb
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\obj\Debug\05_exercise.exe
+C:\Users\just-\Desktop\Homework_Lunts\1_Exercises_29.10.2017\Exercises\05_exercise\obj\Debug\05_exercise.pdb
