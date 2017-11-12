@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\bin\Debug\Exercise_12.11.2017.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\bin\Debug\Exercise_12.11.2017.exe
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\bin\Debug\Exercise_12.11.2017.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\obj\Debug\Exercise_12.11.2017.csprojResolveAssemblyReference.cache
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\obj\Debug\Exercise_12.11.2017.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\obj\Debug\Exercise_12.11.2017.exe
+C:\Users\just-\Desktop\Homework_Lunts\Exercise_12.11.2017\Exercise_12.11.2017\obj\Debug\Exercise_12.11.2017.pdb
