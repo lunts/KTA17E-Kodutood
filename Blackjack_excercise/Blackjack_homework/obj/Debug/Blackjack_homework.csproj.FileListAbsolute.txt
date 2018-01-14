@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\obj\Debug\Blackjack_homework.csprojResolveAssemblyReference.cache
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\obj\Debug\Blackjack_homework.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\bin\Debug\Blackjack_homework.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\bin\Debug\Blackjack_homework.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\bin\Debug\Blackjack_homework.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\obj\Debug\Blackjack_homework.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_homework\obj\Debug\Blackjack_homework.pdb

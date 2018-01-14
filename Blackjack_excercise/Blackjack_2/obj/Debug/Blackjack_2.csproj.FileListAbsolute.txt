@@ -1,0 +1,6 @@
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\obj\Debug\Blackjack_2.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\bin\Debug\Blackjack_2.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\bin\Debug\Blackjack_2.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\bin\Debug\Blackjack_2.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\obj\Debug\Blackjack_2.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Blackjack_2\obj\Debug\Blackjack_2.pdb

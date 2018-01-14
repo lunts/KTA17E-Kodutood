@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\obj\Debug\Pseudocode.csprojResolveAssemblyReference.cache
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\obj\Debug\Pseudocode.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\bin\Debug\Pseudocode.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\bin\Debug\Pseudocode.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\bin\Debug\Pseudocode.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\obj\Debug\Pseudocode.exe
+C:\Users\just-\Desktop\Homework_Lunts\Blackjack_excercise\Pseudocode\obj\Debug\Pseudocode.pdb
